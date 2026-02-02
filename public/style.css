@@ -363,3 +363,22 @@ body {
     font-size: 0.9rem;
   }
 }
+
+@media (max-width: 480px) {
+
+  .sidebar {
+    flex-direction: column;
+  }
+
+  .message-bubble {
+    max-width: 90%;
+  }
+
+  #send-btn {
+    padding: 0.6rem 1.2rem;
+  }
+
+  .overlay-card {
+    padding: 1.5rem;
+  }
+}
