@@ -92,15 +92,18 @@ The application is built with HTML, CSS, and JavaScript on the client side, and 
 
 ## Project Structure
 
-```text
-chat-application/
-├── package.json
-├── server.js
-├── README.md
-└── public/
-    ├── index.html
-    ├── style.css
-    └── client.js
+chat-application
+ └ backend
+     ├ server.js
+     ├ package.json
+     └ public
+         ├ index.html
+         ├ style.css
+         ├ script.js
+         ├ manifest.json
+         └ icons
+             └ logo.png
+
 
 
 **Images**
