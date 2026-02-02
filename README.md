@@ -101,3 +101,9 @@ chat-application/
     ├── index.html
     ├── style.css
     └── client.js
+
+
+**Images**
+![login page](<Screenshot 2026-01-31 002100.png>)
+
+![in app](<Screenshot 2026-01-31 002037.png>)
